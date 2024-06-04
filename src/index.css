@@ -18,11 +18,12 @@ button{
     border-radius: 10px;
     font-size: 18px;
     padding: 4px 10px;
-
+    cursor: pointer;
 }
 
 .btn-div{
     display: flex;
     justify-content: center;
     gap: 10px;
+    flex-wrap: wrap;
 }
