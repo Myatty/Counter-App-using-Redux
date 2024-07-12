@@ -1,3 +1,3 @@
 # Counter App using Redux
 
-This project is finished
+This project is already finished
